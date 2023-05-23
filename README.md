@@ -13,3 +13,5 @@ Metrics -
 1. Per location
 2. Per hundred
 3. GDP per capita
+
+Tableau Public : https://public.tableau.com/views/COVID-19VaccineTracker_16847887456750/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
